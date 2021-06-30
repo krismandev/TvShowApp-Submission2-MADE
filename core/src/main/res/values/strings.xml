@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie App Made</string>
+    <string name="film">Film</string>
+    <string name="tv_series">TV Series</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Judul</string>
+    <string name="age">Usia</string>
+    <string name="picture_description">Poster</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="synopsis_received">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="director">Sutradara : </string>
+    <string name="director_received">Krisman Pratama Simanjuntak</string>
+    <string name="genre">Genre :</string>
+    <string name="genre_received">Action</string>
+    <string name="production">Produksi :</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="favorite">Favorite</string>
+    <string name="not_found">Not Found</string>
+</resources>

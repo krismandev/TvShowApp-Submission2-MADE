@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_tvs">
+
+    <fragment
+        android:id="@+id/navigation_tvs"
+        android:name="com.krismanpratama.made1.tvshow.TvShowFragment"
+        android:label="@string/tv_series"
+        tools:layout="@layout/fragment_tv_show" />
+
+    <fragment
+        android:id="@+id/navigation_favorite"
+        app:moduleName="myDynamicFeature"
+        android:name="com.krismanpratama.made1.favorite.FavoriteTvShowFragment"
+        android:label="@string/favorite"
+        tools:layout="@layout/fragment_favorite_tv_show" />
+
+
+</navigation>
